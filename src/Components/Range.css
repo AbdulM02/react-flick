@@ -1,0 +1,9 @@
+.container{
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    height: 89.8%;
+    cursor: crosshair;
+    background-color: antiquewhite;
+    border-top: 2px solid black;
+}

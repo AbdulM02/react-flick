@@ -1,0 +1,7 @@
+.target {
+    position: absolute;
+    background-color: red;
+    width: 5%;
+    left: 50%;
+    bottom: 55%;
+}

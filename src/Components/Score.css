@@ -1,0 +1,11 @@
+.Score {
+    display: flex;
+    float: right;
+    width: 40%;
+}
+
+h2 {
+    width: 40%;
+    margin-right: 5%;
+    padding-top: 1%;
+}
