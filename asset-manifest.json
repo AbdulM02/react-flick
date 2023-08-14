@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-flick/static/css/main.4d47e4cc.css",
+    "main.js": "/react-flick/static/js/main.661268ba.js",
+    "index.html": "/react-flick/index.html",
+    "main.4d47e4cc.css.map": "/react-flick/static/css/main.4d47e4cc.css.map",
+    "main.661268ba.js.map": "/react-flick/static/js/main.661268ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d47e4cc.css",
+    "static/js/main.661268ba.js"
+  ]
+}
